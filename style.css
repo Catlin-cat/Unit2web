@@ -1,0 +1,16 @@
+.img {
+    margin-top: 235px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 525px;
+    background-attachment: fixed;
+  }
+
+body {
+    background-image: url('page-1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+

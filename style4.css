@@ -1,0 +1,25 @@
+.img {
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 350px;
+    background-attachment: absolute;
+  }
+
+body {
+    background-image: url('page-4.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    overflow: hidden;
+
+}
+
+
+.img2 {
+  margin-top: 400px;
+  margin-bottom: auto;
+  margin-right: 300px;
+  margin-left: 250px;
+  background-attachment: absolute;
+}

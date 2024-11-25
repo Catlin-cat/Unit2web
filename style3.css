@@ -1,0 +1,24 @@
+.img {
+    margin-top: auto;
+    margin-bottom: 600px;
+    margin-right: auto;
+    margin-left: 10px;
+    background-attachment: fixed;
+  }
+
+body {
+    background-image: url('page-3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+
+video { 
+    margin-top: 250px;
+    margin-bottom: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    background-attachment: fixed;
+}
